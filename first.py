@@ -10,3 +10,4 @@ print(f-e)
 x = 50
 y = 90
 print(x%y)
+print("mai master file hu")
